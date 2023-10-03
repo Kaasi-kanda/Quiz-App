@@ -1,0 +1,2 @@
+                                             QUIZ APP
+This is a Simple Quiz App developed using HTML,CSS and Javascript.In this App there are several questions to answer.Once an option is Selected then there is no chance to change the option.After the selcting the option it is validated and displays the correct answer for that question.At the end of the quiz after answering all the questions the score of the candidate is get dipalyed and also the candidate can Retake the quiz.
